@@ -8,6 +8,6 @@ NeoQuiz sebuah platform kuis interaktif yang membantu Anda meningkatkan kemampua
 
 ## Cara membuat nya dengan
 - aplikasi ini dengan menyesuaikan nama database dengan file neoquiz.sql
-- dengan menganti dbname setiap file ketika memodivikasi 
+- dengan mengganti dbname setiap file ketika memodivikasi jika tidak tetap dan langsung mencoba 
 
 
